@@ -22,7 +22,28 @@ I deployed a vulnerable Active Directory network, performed a complete compromis
 | *Attacker* | Kali Linux 2024 | Red Team Operations | 192.168.10.10 |
 
 > [Link to Network Diagram.png] > (You can upload your diagram to the Diagrams folder and link it here)
-
+https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/AC19.jpg
+https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/AC11.jpg
+ https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/CrateExecutable-Rule.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/EWR-serachById.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/Kali-EvilWinRM.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/Local-Security-policy.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/calc.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/code.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/enum4linux.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/impacket-secretdump.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/johnusercreate.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/kaliAccesstoJohnUsingEvilWinRm.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/kalicmdaccessjohn.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/nclvnp.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/onlyEvent-Viewer.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/onlyEvent-viewer-view.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/pythonserverkali.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/scan-nmap.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/smbclient-john.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/sysmon-eventViewer.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/windows-server-ip.jpg
+> https://github.com/SanaJohn123/Purple-Team-Active-Directory-Lab/blob/main/winr-cmd-path.jpg
 ---
 
 ## 🔴 Phase 1: Red Team Operations (The Attack)
